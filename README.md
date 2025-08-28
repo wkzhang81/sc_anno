@@ -1,3 +1,4 @@
+# A simple way to understand and annotate scRNAseq data
 ## ABSTRACT
   Since its introduction in 2009, single-cell RNA sequencing (scRNA-seq) has transformed biological research by enabling large-scale cell mapping, uncovering novel cell subtypes, and integrating multiomics data. A critical step in this process is cell annotation, which links gene expression profiles to biological identities, aiding in understanding cellular heterogeneity and disease mechanisms. This step also serves as a valuable learning opportunity for researchers. To improve efficiency and security, we propose a semi-automated cell annotation workflow using OpenAI open-source GPT-OSS-20B model, which can be run locally via Ollama and integrated into R using the rollama package. This method is cost-effective, user-friendly, and provides precise annotations with biological insights, as demonstrated in our results. This approach simplifies scRNA-seq data analysis, promoting broader adoption and further advancements in the field.
 
@@ -10,8 +11,8 @@
 - rollama package: https://github.com/JBGruber/rollama
 
 ## Notes
-- Please read the ***instruction*** file first
-- Detailed code was included in ***annotation_of_sample_sce*** file
+- Please read the ***instruction*** first
+- Detailed code was included in ***annotation_of_sample_sce.html*** or ***rollama_anno.R***
 - the following prompt was quite important but can be optimized due to your special needs:
 ```
       You are a helpful assistant on gene functions and cellular markers. 
