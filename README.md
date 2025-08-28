@@ -10,8 +10,8 @@
 - rollama package: https://github.com/JBGruber/rollama
 
 ## Notes
-- Please read the **instruction** file first
-- Detailed code was included in **annotation_of_sample_sce** file
+- Please read the ***instruction*** file first
+- Detailed code was included in ***annotation_of_sample_sce*** file
 - the following prompt was quite important but can be optimized due to your special needs:
 ```
       You are a helpful assistant on gene functions and cellular markers. 
@@ -20,3 +20,6 @@
       - Exactly three bullet points (1–2 sentences each).
       - Total length ≤ 300 words.
 ```
+
+## To us, ANNOTATION is a process of learning! 
+## So enjoy it and don't pass it directly to automation!!!
