@@ -9,6 +9,10 @@
 - R: https://www.r-project.org/
 - Rstudio or jupyter lab
 - rollama package: https://github.com/JBGruber/rollama
+<img width="4000" height="2250" alt="figure1_lowres" src="https://github.com/user-attachments/assets/b0cad29f-7a1a-42fb-a1d2-bbfa62501ce7" />
+
+## Results
+<img width="4000" height="2250" alt="figure2_lowres" src="https://github.com/user-attachments/assets/5606073b-1dbc-4414-91fb-87dfa2bfb6b8" />
 
 ## Notes
 - Please read the ***instruction*** first
